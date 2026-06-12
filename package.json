@@ -1,13 +1,12 @@
 {
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npx vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "animejs": "^4.4.1"
-  },
-  "devDependencies": {
+    "animejs": "^4.4.1",
     "vite": "^8.0.16"
-  }
+  },
+  "devDependencies": {}
 }
